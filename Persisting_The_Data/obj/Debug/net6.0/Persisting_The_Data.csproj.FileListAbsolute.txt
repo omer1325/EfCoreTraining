@@ -1,0 +1,5 @@
+C:\Users\omer\source\repos\EfCoreTraining\Persisting_The_Data\obj\Debug\net6.0\Persisting_The_Data.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\EfCoreTraining\Persisting_The_Data\obj\Debug\net6.0\Persisting_The_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer\source\repos\EfCoreTraining\Persisting_The_Data\obj\Debug\net6.0\Persisting_The_Data.AssemblyInfoInputs.cache
+C:\Users\omer\source\repos\EfCoreTraining\Persisting_The_Data\obj\Debug\net6.0\Persisting_The_Data.AssemblyInfo.cs
+C:\Users\omer\source\repos\EfCoreTraining\Persisting_The_Data\obj\Debug\net6.0\Persisting_The_Data.csproj.CoreCompileInputs.cache
